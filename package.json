@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@langchain/core": "^1.2.3",
+    "deepagents": "^1.11.1",
+    "langchain": "^1.5.3"
+  }
+}
