@@ -1,0 +1,11 @@
+{
+  "max_amount_eth": 0.02,
+  "allowlist": [
+    "0xDBC29E79b2B3b62C015AB598D0bb86681313d90F",
+    "0x93923B42Ff4bDF533634Ea71bF626c90286D27A0",
+    "0x5d4aD28bD191107E582E56E47d7407bD5F111D8b"
+  ],
+  "allowed_actions": [
+    "execute_transfer"
+  ]
+}
